@@ -1,0 +1,247 @@
+ Volume in drive C is OS
+ Volume Serial Number is 1EDB-A4DC
+
+ Directory of C:\Users\gordo\mcp-project
+
+12/11/2024  08:43 PM    <DIR>          .
+12/11/2024  08:21 PM    <DIR>          ..
+12/11/2024  08:36 PM             9,753 dirs.txt
+12/11/2024  08:38 PM             9,803 dirs1.txt
+12/11/2024  08:43 PM                 0 dirs2.txt
+12/11/2024  08:22 PM    <DIR>          mcp-installer
+               3 File(s)         19,556 bytes
+
+ Directory of C:\Users\gordo\mcp-project\.git
+
+12/11/2024  08:43 PM    <DIR>          ..
+12/11/2024  08:32 PM               130 config
+12/11/2024  08:32 PM                73 description
+12/11/2024  08:32 PM                23 HEAD
+12/11/2024  08:32 PM    <DIR>          hooks
+12/11/2024  08:32 PM    <DIR>          info
+12/11/2024  08:32 PM    <DIR>          objects
+12/11/2024  08:32 PM    <DIR>          refs
+               3 File(s)            226 bytes
+
+ Directory of C:\Users\gordo\mcp-project\.git\hooks
+
+12/11/2024  08:32 PM    <DIR>          .
+12/11/2024  08:32 PM               478 applypatch-msg.sample
+12/11/2024  08:32 PM               896 commit-msg.sample
+12/11/2024  08:32 PM             4,726 fsmonitor-watchman.sample
+12/11/2024  08:32 PM               189 post-update.sample
+12/11/2024  08:32 PM               424 pre-applypatch.sample
+12/11/2024  08:32 PM             1,643 pre-commit.sample
+12/11/2024  08:32 PM               416 pre-merge-commit.sample
+12/11/2024  08:32 PM             1,374 pre-push.sample
+12/11/2024  08:32 PM             4,898 pre-rebase.sample
+12/11/2024  08:32 PM               544 pre-receive.sample
+12/11/2024  08:32 PM             1,492 prepare-commit-msg.sample
+12/11/2024  08:32 PM             2,783 push-to-checkout.sample
+12/11/2024  08:32 PM             2,308 sendemail-validate.sample
+12/11/2024  08:32 PM             3,650 update.sample
+              14 File(s)         25,821 bytes
+
+ Directory of C:\Users\gordo\mcp-project\.git\info
+
+12/11/2024  08:32 PM    <DIR>          .
+12/11/2024  08:32 PM               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of C:\Users\gordo\mcp-project\.git\objects
+
+12/11/2024  08:32 PM    <DIR>          .
+12/11/2024  08:32 PM    <DIR>          info
+12/11/2024  08:32 PM    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\gordo\mcp-project\.git\objects\info
+
+12/11/2024  08:32 PM    <DIR>          .
+12/11/2024  08:32 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\gordo\mcp-project\.git\objects\pack
+
+12/11/2024  08:32 PM    <DIR>          .
+12/11/2024  08:32 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\gordo\mcp-project\.git\refs
+
+12/11/2024  08:32 PM    <DIR>          .
+12/11/2024  08:32 PM    <DIR>          heads
+12/11/2024  08:32 PM    <DIR>          tags
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\gordo\mcp-project\.git\refs\heads
+
+12/11/2024  08:32 PM    <DIR>          .
+12/11/2024  08:32 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\gordo\mcp-project\.git\refs\tags
+
+12/11/2024  08:32 PM    <DIR>          .
+12/11/2024  08:32 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\gordo\mcp-project\mcp-installer
+
+12/11/2024  08:22 PM    <DIR>          .
+12/11/2024  08:43 PM    <DIR>          ..
+12/11/2024  08:22 PM               596 .gitignore
+12/11/2024  08:22 PM                29 .prettierrc
+12/11/2024  08:22 PM             2,438 CODE_OF_CONDUCT.md
+12/11/2024  08:22 PM             1,063 COPYING
+12/11/2024  08:22 PM             2,188 eslint.config.mjs
+12/11/2024  08:22 PM            43,667 package-lock.json
+12/11/2024  08:22 PM               587 package.json
+12/11/2024  08:22 PM             1,213 README.md
+12/11/2024  08:22 PM    <DIR>          src
+12/11/2024  08:22 PM               631 tsconfig.json
+               9 File(s)         52,412 bytes
+
+ Directory of C:\Users\gordo\mcp-project\mcp-installer\.git
+
+12/11/2024  08:22 PM    <DIR>          ..
+12/11/2024  08:22 PM               306 config
+12/11/2024  08:22 PM                73 description
+12/11/2024  08:22 PM                21 HEAD
+12/11/2024  08:22 PM    <DIR>          hooks
+12/11/2024  08:22 PM               886 index
+12/11/2024  08:22 PM    <DIR>          info
+12/11/2024  08:22 PM    <DIR>          logs
+12/11/2024  08:22 PM    <DIR>          objects
+12/11/2024  08:22 PM               212 packed-refs
+12/11/2024  08:22 PM    <DIR>          refs
+               5 File(s)          1,498 bytes
+
+ Directory of C:\Users\gordo\mcp-project\mcp-installer\.git\hooks
+
+12/11/2024  08:22 PM    <DIR>          .
+12/11/2024  08:22 PM               478 applypatch-msg.sample
+12/11/2024  08:22 PM               896 commit-msg.sample
+12/11/2024  08:22 PM             4,726 fsmonitor-watchman.sample
+12/11/2024  08:22 PM               189 post-update.sample
+12/11/2024  08:22 PM               424 pre-applypatch.sample
+12/11/2024  08:22 PM             1,643 pre-commit.sample
+12/11/2024  08:22 PM               416 pre-merge-commit.sample
+12/11/2024  08:22 PM             1,374 pre-push.sample
+12/11/2024  08:22 PM             4,898 pre-rebase.sample
+12/11/2024  08:22 PM               544 pre-receive.sample
+12/11/2024  08:22 PM             1,492 prepare-commit-msg.sample
+12/11/2024  08:22 PM             2,783 push-to-checkout.sample
+12/11/2024  08:22 PM             2,308 sendemail-validate.sample
+12/11/2024  08:22 PM             3,650 update.sample
+              14 File(s)         25,821 bytes
+
+ Directory of C:\Users\gordo\mcp-project\mcp-installer\.git\info
+
+12/11/2024  08:22 PM    <DIR>          .
+12/11/2024  08:22 PM               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of C:\Users\gordo\mcp-project\mcp-installer\.git\logs
+
+12/11/2024  08:22 PM    <DIR>          .
+12/11/2024  08:22 PM               230 HEAD
+12/11/2024  08:22 PM    <DIR>          refs
+               1 File(s)            230 bytes
+
+ Directory of C:\Users\gordo\mcp-project\mcp-installer\.git\logs\refs
+
+12/11/2024  08:22 PM    <DIR>          .
+12/11/2024  08:22 PM    <DIR>          ..
+12/11/2024  08:22 PM    <DIR>          heads
+12/11/2024  08:22 PM    <DIR>          remotes
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\gordo\mcp-project\mcp-installer\.git\logs\refs\heads
+
+12/11/2024  08:22 PM    <DIR>          .
+12/11/2024  08:22 PM    <DIR>          ..
+12/11/2024  08:22 PM               230 main
+               1 File(s)            230 bytes
+
+ Directory of C:\Users\gordo\mcp-project\mcp-installer\.git\logs\refs\remotes
+
+12/11/2024  08:22 PM    <DIR>          .
+12/11/2024  08:22 PM    <DIR>          ..
+12/11/2024  08:22 PM    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\gordo\mcp-project\mcp-installer\.git\logs\refs\remotes\origin
+
+12/11/2024  08:22 PM    <DIR>          .
+12/11/2024  08:22 PM    <DIR>          ..
+12/11/2024  08:22 PM               230 HEAD
+               1 File(s)            230 bytes
+
+ Directory of C:\Users\gordo\mcp-project\mcp-installer\.git\objects
+
+12/11/2024  08:22 PM    <DIR>          .
+12/11/2024  08:22 PM    <DIR>          info
+12/11/2024  08:22 PM    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\gordo\mcp-project\mcp-installer\.git\objects\info
+
+12/11/2024  08:22 PM    <DIR>          .
+12/11/2024  08:22 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\gordo\mcp-project\mcp-installer\.git\objects\pack
+
+12/11/2024  08:22 PM    <DIR>          .
+12/11/2024  08:22 PM    <DIR>          ..
+12/11/2024  08:22 PM             2,556 pack-e8662a3d4bb9100da7518e027b94f0fb5af19fb7.idx
+12/11/2024  08:22 PM            26,446 pack-e8662a3d4bb9100da7518e027b94f0fb5af19fb7.pack
+12/11/2024  08:22 PM               264 pack-e8662a3d4bb9100da7518e027b94f0fb5af19fb7.rev
+               3 File(s)         29,266 bytes
+
+ Directory of C:\Users\gordo\mcp-project\mcp-installer\.git\refs
+
+12/11/2024  08:22 PM    <DIR>          .
+12/11/2024  08:22 PM    <DIR>          heads
+12/11/2024  08:22 PM    <DIR>          remotes
+12/11/2024  08:22 PM    <DIR>          tags
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\gordo\mcp-project\mcp-installer\.git\refs\heads
+
+12/11/2024  08:22 PM    <DIR>          .
+12/11/2024  08:22 PM    <DIR>          ..
+12/11/2024  08:22 PM                41 main
+               1 File(s)             41 bytes
+
+ Directory of C:\Users\gordo\mcp-project\mcp-installer\.git\refs\remotes
+
+12/11/2024  08:22 PM    <DIR>          .
+12/11/2024  08:22 PM    <DIR>          ..
+12/11/2024  08:22 PM    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\gordo\mcp-project\mcp-installer\.git\refs\remotes\origin
+
+12/11/2024  08:22 PM    <DIR>          .
+12/11/2024  08:22 PM    <DIR>          ..
+12/11/2024  08:22 PM                30 HEAD
+               1 File(s)             30 bytes
+
+ Directory of C:\Users\gordo\mcp-project\mcp-installer\.git\refs\tags
+
+12/11/2024  08:22 PM    <DIR>          .
+12/11/2024  08:22 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\gordo\mcp-project\mcp-installer\src
+
+12/11/2024  08:22 PM    <DIR>          .
+12/11/2024  08:22 PM    <DIR>          ..
+12/11/2024  08:22 PM             8,164 index.mts
+               1 File(s)          8,164 bytes
+
+     Total Files Listed:
+              59 File(s)        164,005 bytes
+              70 Dir(s)  1,032,208,752,640 bytes free

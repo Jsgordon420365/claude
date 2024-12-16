@@ -1,0 +1,394 @@
+Folder PATH listing for volume OS
+Volume serial number is 1EDB-A4DC
+C:.
++---mcp-installer
+    +---lib
+    +---node_modules
+    ¦   +---.bin
+    ¦   +---@cspotcode
+    ¦   ¦   +---source-map-support
+    ¦   +---@isaacs
+    ¦   ¦   +---cliui
+    ¦   ¦       +---build
+    ¦   ¦           +---lib
+    ¦   +---@jridgewell
+    ¦   ¦   +---resolve-uri
+    ¦   ¦   ¦   +---dist
+    ¦   ¦   ¦       +---types
+    ¦   ¦   +---sourcemap-codec
+    ¦   ¦   ¦   +---dist
+    ¦   ¦   ¦       +---types
+    ¦   ¦   +---trace-mapping
+    ¦   ¦       +---dist
+    ¦   ¦           +---types
+    ¦   +---@modelcontextprotocol
+    ¦   ¦   +---sdk
+    ¦   ¦       +---dist
+    ¦   ¦           +---client
+    ¦   ¦           +---server
+    ¦   ¦           +---shared
+    ¦   +---@tsconfig
+    ¦   ¦   +---node10
+    ¦   ¦   +---node12
+    ¦   ¦   +---node14
+    ¦   ¦   +---node16
+    ¦   +---@types
+    ¦   ¦   +---node
+    ¦   ¦       +---assert
+    ¦   ¦       +---compatibility
+    ¦   ¦       +---dns
+    ¦   ¦       +---fs
+    ¦   ¦       +---readline
+    ¦   ¦       +---stream
+    ¦   ¦       +---timers
+    ¦   ¦       +---ts5.6
+    ¦   +---acorn
+    ¦   ¦   +---bin
+    ¦   ¦   +---dist
+    ¦   +---acorn-walk
+    ¦   ¦   +---dist
+    ¦   +---ansi-regex
+    ¦   +---ansi-styles
+    ¦   +---arg
+    ¦   +---balanced-match
+    ¦   ¦   +---.github
+    ¦   +---brace-expansion
+    ¦   ¦   +---.github
+    ¦   +---bytes
+    ¦   +---color-convert
+    ¦   +---color-name
+    ¦   +---concat-map
+    ¦   ¦   +---example
+    ¦   ¦   +---test
+    ¦   +---content-type
+    ¦   +---create-require
+    ¦   +---cross-spawn
+    ¦   ¦   +---lib
+    ¦   ¦       +---util
+    ¦   +---debug
+    ¦   ¦   +---src
+    ¦   +---depd
+    ¦   ¦   +---lib
+    ¦   ¦       +---browser
+    ¦   +---diff
+    ¦   ¦   +---dist
+    ¦   ¦   +---lib
+    ¦   ¦       +---convert
+    ¦   ¦       +---diff
+    ¦   ¦       +---patch
+    ¦   ¦       +---util
+    ¦   +---eastasianwidth
+    ¦   +---emoji-regex
+    ¦   ¦   +---es2015
+    ¦   +---foreground-child
+    ¦   ¦   +---dist
+    ¦   ¦       +---commonjs
+    ¦   ¦       +---esm
+    ¦   +---fs.realpath
+    ¦   +---function-bind
+    ¦   ¦   +---.github
+    ¦   ¦   +---test
+    ¦   +---glob
+    ¦   ¦   +---dist
+    ¦   ¦       +---commonjs
+    ¦   ¦       +---esm
+    ¦   +---hasown
+    ¦   ¦   +---.github
+    ¦   +---http-errors
+    ¦   +---iconv-lite
+    ¦   ¦   +---.github
+    ¦   ¦   +---.idea
+    ¦   ¦   ¦   +---codeStyles
+    ¦   ¦   ¦   +---inspectionProfiles
+    ¦   ¦   +---encodings
+    ¦   ¦   ¦   +---tables
+    ¦   ¦   +---lib
+    ¦   +---inflight
+    ¦   +---inherits
+    ¦   +---interpret
+    ¦   +---is-core-module
+    ¦   ¦   +---test
+    ¦   +---is-fullwidth-code-point
+    ¦   +---isexe
+    ¦   ¦   +---test
+    ¦   +---jackspeak
+    ¦   ¦   +---dist
+    ¦   ¦       +---commonjs
+    ¦   ¦       +---esm
+    ¦   +---lodash.assign
+    ¦   +---lru-cache
+    ¦   ¦   +---dist
+    ¦   ¦       +---commonjs
+    ¦   ¦       +---esm
+    ¦   +---make-error
+    ¦   ¦   +---dist
+    ¦   +---minimatch
+    ¦   ¦   +---dist
+    ¦   ¦       +---commonjs
+    ¦   ¦       +---esm
+    ¦   +---minimist
+    ¦   ¦   +---.github
+    ¦   ¦   +---example
+    ¦   ¦   +---test
+    ¦   +---minipass
+    ¦   ¦   +---dist
+    ¦   ¦       +---commonjs
+    ¦   ¦       +---esm
+    ¦   +---ms
+    ¦   +---once
+    ¦   +---package-json-from-dist
+    ¦   ¦   +---dist
+    ¦   ¦       +---commonjs
+    ¦   ¦       +---esm
+    ¦   +---path-is-absolute
+    ¦   +---path-key
+    ¦   +---path-parse
+    ¦   +---path-scurry
+    ¦   ¦   +---dist
+    ¦   ¦       +---commonjs
+    ¦   ¦       +---esm
+    ¦   +---raw-body
+    ¦   +---rechoir
+    ¦   ¦   +---lib
+    ¦   +---resolve
+    ¦   ¦   +---.github
+    ¦   ¦   +---bin
+    ¦   ¦   +---example
+    ¦   ¦   +---lib
+    ¦   ¦   +---test
+    ¦   ¦       +---dotdot
+    ¦   ¦       ¦   +---abc
+    ¦   ¦       +---module_dir
+    ¦   ¦       ¦   +---xmodules
+    ¦   ¦       ¦   ¦   +---aaa
+    ¦   ¦       ¦   +---ymodules
+    ¦   ¦       ¦   ¦   +---aaa
+    ¦   ¦       ¦   +---zmodules
+    ¦   ¦       ¦       +---bbb
+    ¦   ¦       +---node_path
+    ¦   ¦       ¦   +---x
+    ¦   ¦       ¦   ¦   +---aaa
+    ¦   ¦       ¦   ¦   +---ccc
+    ¦   ¦       ¦   +---y
+    ¦   ¦       ¦       +---bbb
+    ¦   ¦       ¦       +---ccc
+    ¦   ¦       +---pathfilter
+    ¦   ¦       ¦   +---deep_ref
+    ¦   ¦       +---precedence
+    ¦   ¦       ¦   +---aaa
+    ¦   ¦       ¦   +---bbb
+    ¦   ¦       +---resolver
+    ¦   ¦       ¦   +---baz
+    ¦   ¦       ¦   +---browser_field
+    ¦   ¦       ¦   +---dot_main
+    ¦   ¦       ¦   +---dot_slash_main
+    ¦   ¦       ¦   +---false_main
+    ¦   ¦       ¦   +---incorrect_main
+    ¦   ¦       ¦   +---invalid_main
+    ¦   ¦       ¦   +---multirepo
+    ¦   ¦       ¦   ¦   +---packages
+    ¦   ¦       ¦   ¦       +---package-a
+    ¦   ¦       ¦   ¦       +---package-b
+    ¦   ¦       ¦   +---nested_symlinks
+    ¦   ¦       ¦   ¦   +---mylib
+    ¦   ¦       ¦   +---other_path
+    ¦   ¦       ¦   ¦   +---lib
+    ¦   ¦       ¦   +---quux
+    ¦   ¦       ¦   ¦   +---foo
+    ¦   ¦       ¦   +---same_names
+    ¦   ¦       ¦   ¦   +---foo
+    ¦   ¦       ¦   +---symlinked
+    ¦   ¦       ¦   ¦   +---package
+    ¦   ¦       ¦   ¦   +---_
+    ¦   ¦       ¦   ¦       +---node_modules
+    ¦   ¦       ¦   ¦       +---symlink_target
+    ¦   ¦       ¦   +---without_basedir
+    ¦   ¦       +---shadowed_core
+    ¦   ¦           +---node_modules
+    ¦   ¦               +---util
+    ¦   +---rimraf
+    ¦   ¦   +---dist
+    ¦   ¦       +---commonjs
+    ¦   ¦       +---esm
+    ¦   +---rxjs
+    ¦   ¦   +---ajax
+    ¦   ¦   +---dist
+    ¦   ¦   ¦   +---bundles
+    ¦   ¦   ¦   +---cjs
+    ¦   ¦   ¦   ¦   +---ajax
+    ¦   ¦   ¦   ¦   +---fetch
+    ¦   ¦   ¦   ¦   +---internal
+    ¦   ¦   ¦   ¦   ¦   +---ajax
+    ¦   ¦   ¦   ¦   ¦   +---observable
+    ¦   ¦   ¦   ¦   ¦   ¦   +---dom
+    ¦   ¦   ¦   ¦   ¦   +---operators
+    ¦   ¦   ¦   ¦   ¦   +---scheduled
+    ¦   ¦   ¦   ¦   ¦   +---scheduler
+    ¦   ¦   ¦   ¦   ¦   +---symbol
+    ¦   ¦   ¦   ¦   ¦   +---testing
+    ¦   ¦   ¦   ¦   ¦   +---util
+    ¦   ¦   ¦   ¦   +---operators
+    ¦   ¦   ¦   ¦   +---testing
+    ¦   ¦   ¦   ¦   +---webSocket
+    ¦   ¦   ¦   +---esm
+    ¦   ¦   ¦   ¦   +---ajax
+    ¦   ¦   ¦   ¦   +---fetch
+    ¦   ¦   ¦   ¦   +---internal
+    ¦   ¦   ¦   ¦   ¦   +---ajax
+    ¦   ¦   ¦   ¦   ¦   +---observable
+    ¦   ¦   ¦   ¦   ¦   ¦   +---dom
+    ¦   ¦   ¦   ¦   ¦   +---operators
+    ¦   ¦   ¦   ¦   ¦   +---scheduled
+    ¦   ¦   ¦   ¦   ¦   +---scheduler
+    ¦   ¦   ¦   ¦   ¦   +---symbol
+    ¦   ¦   ¦   ¦   ¦   +---testing
+    ¦   ¦   ¦   ¦   ¦   +---util
+    ¦   ¦   ¦   ¦   +---operators
+    ¦   ¦   ¦   ¦   +---testing
+    ¦   ¦   ¦   ¦   +---webSocket
+    ¦   ¦   ¦   +---esm5
+    ¦   ¦   ¦   ¦   +---ajax
+    ¦   ¦   ¦   ¦   +---fetch
+    ¦   ¦   ¦   ¦   +---internal
+    ¦   ¦   ¦   ¦   ¦   +---ajax
+    ¦   ¦   ¦   ¦   ¦   +---observable
+    ¦   ¦   ¦   ¦   ¦   ¦   +---dom
+    ¦   ¦   ¦   ¦   ¦   +---operators
+    ¦   ¦   ¦   ¦   ¦   +---scheduled
+    ¦   ¦   ¦   ¦   ¦   +---scheduler
+    ¦   ¦   ¦   ¦   ¦   +---symbol
+    ¦   ¦   ¦   ¦   ¦   +---testing
+    ¦   ¦   ¦   ¦   ¦   +---util
+    ¦   ¦   ¦   ¦   +---operators
+    ¦   ¦   ¦   ¦   +---testing
+    ¦   ¦   ¦   ¦   +---webSocket
+    ¦   ¦   ¦   +---types
+    ¦   ¦   ¦       +---ajax
+    ¦   ¦   ¦       +---fetch
+    ¦   ¦   ¦       +---internal
+    ¦   ¦   ¦       ¦   +---ajax
+    ¦   ¦   ¦       ¦   +---observable
+    ¦   ¦   ¦       ¦   ¦   +---dom
+    ¦   ¦   ¦       ¦   +---operators
+    ¦   ¦   ¦       ¦   +---scheduled
+    ¦   ¦   ¦       ¦   +---scheduler
+    ¦   ¦   ¦       ¦   +---symbol
+    ¦   ¦   ¦       ¦   +---testing
+    ¦   ¦   ¦       ¦   +---util
+    ¦   ¦   ¦       +---operators
+    ¦   ¦   ¦       +---testing
+    ¦   ¦   ¦       +---webSocket
+    ¦   ¦   +---fetch
+    ¦   ¦   +---operators
+    ¦   ¦   +---src
+    ¦   ¦   ¦   +---ajax
+    ¦   ¦   ¦   +---fetch
+    ¦   ¦   ¦   +---internal
+    ¦   ¦   ¦   ¦   +---ajax
+    ¦   ¦   ¦   ¦   +---observable
+    ¦   ¦   ¦   ¦   ¦   +---dom
+    ¦   ¦   ¦   ¦   +---operators
+    ¦   ¦   ¦   ¦   +---scheduled
+    ¦   ¦   ¦   ¦   +---scheduler
+    ¦   ¦   ¦   ¦   +---symbol
+    ¦   ¦   ¦   ¦   +---testing
+    ¦   ¦   ¦   ¦   +---util
+    ¦   ¦   ¦   +---operators
+    ¦   ¦   ¦   +---testing
+    ¦   ¦   ¦   +---webSocket
+    ¦   ¦   +---testing
+    ¦   ¦   +---webSocket
+    ¦   +---safer-buffer
+    ¦   +---setprototypeof
+    ¦   ¦   +---test
+    ¦   +---shebang-command
+    ¦   +---shebang-regex
+    ¦   +---shelljs
+    ¦   ¦   +---bin
+    ¦   ¦   +---node_modules
+    ¦   ¦   ¦   +---brace-expansion
+    ¦   ¦   ¦   +---glob
+    ¦   ¦   ¦   +---minimatch
+    ¦   ¦   +---src
+    ¦   +---shx
+    ¦   ¦   +---lib
+    ¦   +---signal-exit
+    ¦   ¦   +---dist
+    ¦   ¦       +---cjs
+    ¦   ¦       +---mjs
+    ¦   +---spawn-rx
+    ¦   ¦   +---lib
+    ¦   ¦   ¦   +---src
+    ¦   ¦   +---src
+    ¦   ¦   +---test
+    ¦   ¦   +---vendor
+    ¦   ¦       +---jobber
+    ¦   +---statuses
+    ¦   +---string-width
+    ¦   +---string-width-cjs
+    ¦   ¦   +---node_modules
+    ¦   ¦       +---ansi-regex
+    ¦   ¦       +---emoji-regex
+    ¦   ¦       ¦   +---es2015
+    ¦   ¦       +---strip-ansi
+    ¦   +---strip-ansi
+    ¦   +---strip-ansi-cjs
+    ¦   ¦   +---node_modules
+    ¦   ¦       +---ansi-regex
+    ¦   +---supports-preserve-symlinks-flag
+    ¦   ¦   +---.github
+    ¦   ¦   +---test
+    ¦   +---toidentifier
+    ¦   +---ts-node
+    ¦   ¦   +---dist
+    ¦   ¦   ¦   +---child
+    ¦   ¦   ¦   +---transpilers
+    ¦   ¦   +---dist-raw
+    ¦   ¦   +---esm
+    ¦   ¦   +---node10
+    ¦   ¦   +---node12
+    ¦   ¦   +---node14
+    ¦   ¦   +---node16
+    ¦   ¦   +---register
+    ¦   ¦   +---transpilers
+    ¦   +---tslib
+    ¦   ¦   +---modules
+    ¦   +---typescript
+    ¦   ¦   +---bin
+    ¦   ¦   +---lib
+    ¦   ¦       +---cs
+    ¦   ¦       +---de
+    ¦   ¦       +---es
+    ¦   ¦       +---fr
+    ¦   ¦       +---it
+    ¦   ¦       +---ja
+    ¦   ¦       +---ko
+    ¦   ¦       +---pl
+    ¦   ¦       +---pt-br
+    ¦   ¦       +---ru
+    ¦   ¦       +---tr
+    ¦   ¦       +---zh-cn
+    ¦   ¦       +---zh-tw
+    ¦   +---undici-types
+    ¦   +---unpipe
+    ¦   +---v8-compile-cache-lib
+    ¦   +---which
+    ¦   ¦   +---bin
+    ¦   +---wrap-ansi
+    ¦   +---wrap-ansi-cjs
+    ¦   ¦   +---node_modules
+    ¦   ¦       +---ansi-regex
+    ¦   ¦       +---ansi-styles
+    ¦   ¦       +---emoji-regex
+    ¦   ¦       ¦   +---es2015
+    ¦   ¦       +---string-width
+    ¦   ¦       +---strip-ansi
+    ¦   +---wrappy
+    ¦   +---yn
+    ¦   +---zod
+    ¦       +---lib
+    ¦           +---benchmarks
+    ¦           +---helpers
+    ¦           +---locales
+    ¦           +---__tests__
+    +---src
