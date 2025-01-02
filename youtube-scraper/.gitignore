@@ -49,3 +49,6 @@ data/
 config.json
 secrets.json
 .env
+
+# Log files
+*.log
