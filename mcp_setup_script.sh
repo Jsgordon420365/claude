@@ -69,6 +69,18 @@ check_prerequisites() {
         error "Git is not installed. Please install Git."
     fi
     log "Git $(git --version) is installed."
+
+    # Check Python
+    if ! command -v python3 &> /dev/null; then
+        error "Python3 is not installed. Please install Python3."
+    fi
+    log "Python3 $(python3 --version) is installed."
+
+    # Check pip
+    if ! command -v pip &> /dev/null; then
+        error "pip is not installed. Please install pip."
+    fi
+    log "pip $(pip --version) is installed."
 }
 
 # Clone repository
@@ -107,6 +119,33 @@ install_mcp_server() {
     log "MCP server installed successfully"
 }
 
+# Install Python dependencies
+install_python_dependencies() {
+    local PROJECT_DIR="$1"
+
+    log "Installing Python dependencies..."
+    cd "$PROJECT_DIR" || error "Cannot change to project directory"
+
+    # Install Python dependencies
+    pip install -r requirements.txt || error "Failed to install Python dependencies"
+
+    log "Python dependencies installed successfully"
+}
+
+# Set up Python virtual environment
+setup_python_virtualenv() {
+    local PROJECT_DIR="$1"
+
+    log "Setting up Python virtual environment..."
+    cd "$PROJECT_DIR" || error "Cannot change to project directory"
+
+    # Set up virtual environment
+    python3 -m venv venv || error "Failed to set up virtual environment"
+    source venv/bin/activate || error "Failed to activate virtual environment"
+
+    log "Python virtual environment set up successfully"
+}
+
 # Configure environment
 configure_environment() {
     local OS_INFO=$(detect_os)
@@ -137,7 +176,7 @@ configure_environment() {
 # Main setup function
 main() {
     # GitHub repository configuration (replace with your actual repository)
-    local REPO_URL="https://github.com/yourusername/your-mcp-project.git"
+    local REPO_URL="https://github.com/Jsgordon420365/claude.git"
     local CLONE_DIR="$HOME/mcp-project"
 
     log "Starting MCP Server Setup"
@@ -150,6 +189,12 @@ main() {
 
     # Clone repository
     clone_repository "$REPO_URL" "$CLONE_DIR"
+
+    # Set up Python virtual environment
+    setup_python_virtualenv "$CLONE_DIR"
+
+    # Install Python dependencies
+    install_python_dependencies "$CLONE_DIR"
 
     # Install MCP server
     install_mcp_server "$CLONE_DIR"

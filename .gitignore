@@ -1,8 +1,9 @@
-node_modules/ 
-__pycache__/ 
-*.pyc 
-.env 
-.vscode/ 
-.DS_Store 
-*.log 
-mcp-installer/ 
+node_modules/
+__pycache__/
+*.pyc
+.env
+.vscode/
+.DS_Store
+*.log
+mcp-installer/
+venv/
