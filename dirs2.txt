@@ -7,9 +7,9 @@
 12/11/2024  08:21 PM    <DIR>          ..
 12/11/2024  08:36 PM             9,753 dirs.txt
 12/11/2024  08:38 PM             9,803 dirs1.txt
-12/11/2024  08:43 PM                 0 dirs2.txt
+12/11/2024  08:43 PM             9,803 dirs2.txt
 12/11/2024  08:22 PM    <DIR>          mcp-installer
-               3 File(s)         19,556 bytes
+               4 File(s)         29,556 bytes
 
  Directory of C:\Users\gordo\mcp-project\.git
 
@@ -243,5 +243,5 @@
                1 File(s)          8,164 bytes
 
      Total Files Listed:
-              59 File(s)        164,005 bytes
-              70 Dir(s)  1,032,208,752,640 bytes free
+               60 File(s)        173,808 bytes
+               70 Dir(s)  1,032,208,752,640 bytes free

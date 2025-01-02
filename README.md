@@ -58,3 +58,14 @@ To run the project, use the following commands:
 3. **Access the Application**
 
    Open your web browser and navigate to `http://localhost:3000` to access the application.
+
+## Additional Information
+
+This project also includes several scripts and configurations to help with the development process:
+
+- `gca.bat`: A batch script to automate certain tasks on Windows.
+- `mcp_setup_script.sh`: A cross-platform setup script for the MCP server.
+- `.gitignore`: Configuration files to specify which files and directories should be ignored by Git.
+- `dirs.txt`, `dirs1.txt`, `dirs2.txt`: Directory listings of the project structure.
+
+For more details, refer to the respective files and their comments.
