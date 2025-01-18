@@ -59,6 +59,39 @@ To run the project, use the following commands:
 
    Open your web browser and navigate to `http://localhost:3000` to access the application.
 
+## Using the Key-Value Pair Database
+
+This project includes a simple key-value pair database to associate URLs with descriptions. The database is implemented using an in-memory object and provides functions to add, retrieve, and delete URL-description pairs.
+
+### Adding a URL and Description
+
+To add a URL and its description, send a POST request to the `/add` endpoint with the following JSON body:
+
+```json
+{
+  "url": "http://example.com",
+  "description": "Example website"
+}
+```
+
+### Retrieving a Description
+
+To retrieve the description of a URL, send a GET request to the `/get` endpoint with the URL as a query parameter:
+
+```http
+GET /get?url=http://example.com
+```
+
+### Deleting a URL and Description
+
+To delete a URL and its description, send a DELETE request to the `/delete` endpoint with the following JSON body:
+
+```json
+{
+  "url": "http://example.com"
+}
+```
+
 ## Additional Information
 
 This project also includes several scripts and configurations to help with the development process:
